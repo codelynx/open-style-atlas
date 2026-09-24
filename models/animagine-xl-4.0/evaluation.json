@@ -1,0 +1,402 @@
+{
+ "21": {
+  "verdict": "w",
+  "note": "B&W retro TV look, rounded 60s faces"
+ },
+ "1": {
+  "verdict": "w",
+  "note": "strong 90s cel"
+ },
+ "111": {
+  "verdict": "h",
+  "note": "reads 80s/90s; no dry line"
+ },
+ "112": {
+  "verdict": "w",
+  "note": "80s theatrical"
+ },
+ "3": {
+  "verdict": "w",
+  "note": "80s OVA"
+ },
+ "23": {
+  "verdict": "w",
+  "note": "fire, action, bold"
+ },
+ "115": {
+  "verdict": "w",
+  "note": "early digital anime"
+ },
+ "15": {
+  "verdict": "h",
+  "note": "glossy, but odd faces"
+ },
+ "24": {
+  "verdict": "h",
+  "note": "moody; the boy turned into a silhouette"
+ },
+ "101": {
+  "verdict": "w",
+  "note": "clean modern anime"
+ },
+ "104": {
+  "verdict": "w",
+  "note": "sparkle and pastel"
+ },
+ "105": {
+  "verdict": "h",
+  "note": "dark and muted; two girls, no boy"
+ },
+ "109": {
+  "verdict": "w",
+  "note": "purple night, coloured shadow"
+ },
+ "130": {
+  "verdict": "w",
+  "note": "bright cel"
+ },
+ "29": {
+  "verdict": "f",
+  "note": "ordinary coloured anime; no pencil or trace"
+ },
+ "118": {
+  "verdict": "h",
+  "note": "pen lines, partial colour; not a pencil rough"
+ },
+ "2": {
+  "verdict": "h",
+  "note": "flowers, but not 70s shojo faces"
+ },
+ "6": {
+  "verdict": "w",
+  "note": "B&W ink and screentone; \"manga\" drew a manga book"
+ },
+ "172": {
+  "verdict": "w",
+  "note": "B&W shojo, flowers"
+ },
+ "122": {
+  "verdict": "w",
+  "note": "colour ink, watercolour edges"
+ },
+ "17": {
+  "verdict": "h",
+  "note": "greyscale, soft; not gekiga realism"
+ },
+ "121": {
+  "verdict": "w",
+  "note": "vivid colour frontispiece"
+ },
+ "18": {
+  "verdict": "h",
+  "note": "clean digital; reads anime more than webtoon"
+ },
+ "123": {
+  "verdict": "h",
+  "note": "muted, older; faces alike"
+ },
+ "171": {
+  "verdict": "w",
+  "note": "hard B&W, solid blacks"
+ },
+ "5": {
+  "verdict": "h",
+  "note": "flat colour; anime faces, not ligne claire"
+ },
+ "31": {
+  "verdict": "h",
+  "note": "the boy got a caricature nose"
+ },
+ "32": {
+  "verdict": "w",
+  "note": "halftone, comic lettering"
+ },
+ "35": {
+  "verdict": "w",
+  "note": "teal and yellow limited palette"
+ },
+ "16": {
+  "verdict": "h",
+  "note": "big heads, not 2.5 heads; cat ears on both"
+ },
+ "22": {
+  "verdict": "f",
+  "note": "plain retro anime"
+ },
+ "36": {
+  "verdict": "f",
+  "note": "no rubber hose, no B&W cartoon"
+ },
+ "37": {
+  "verdict": "h",
+  "note": "flat geometric colour; faces stay anime"
+ },
+ "38": {
+  "verdict": "h",
+  "note": "90s anime, not western cartoon"
+ },
+ "39": {
+  "verdict": "f",
+  "note": "plain anime"
+ },
+ "149": {
+  "verdict": "f",
+  "note": "plain anime"
+ },
+ "170": {
+  "verdict": "h",
+  "note": "pastel, not deformed"
+ },
+ "113": {
+  "verdict": "w",
+  "note": "90s game promo"
+ },
+ "150": {
+  "verdict": "w",
+  "note": "visual novel, even a dialogue box"
+ },
+ "144": {
+  "verdict": "w",
+  "note": "otome glow"
+ },
+ "142": {
+  "verdict": "w",
+  "note": "fantasy key art"
+ },
+ "148": {
+  "verdict": "h",
+  "note": "dynamic; the boy became a girl"
+ },
+ "183": {
+  "verdict": "w",
+  "note": "chibi on an isometric tile"
+ },
+ "151": {
+  "verdict": "h",
+  "note": "blocky hints of low poly"
+ },
+ "153": {
+  "verdict": "h",
+  "note": "toon-3D hints"
+ },
+ "188": {
+  "verdict": "w",
+  "note": "voxel, Minecraft-like"
+ },
+ "162": {
+  "verdict": "h",
+  "note": "3D-ish scene, anime figures"
+ },
+ "94": {
+  "verdict": "h",
+  "note": "3D-ish scene, anime figures"
+ },
+ "166": {
+  "verdict": "w",
+  "note": "glossy figures"
+ },
+ "116": {
+  "verdict": "w",
+  "note": "beige pastel, thin lines"
+ },
+ "4": {
+  "verdict": "w",
+  "note": "minimal flat colour"
+ },
+ "168": {
+  "verdict": "w",
+  "note": "thin lines, no shadow"
+ },
+ "132": {
+  "verdict": "w",
+  "note": "high-saturation flat"
+ },
+ "138": {
+  "verdict": "h",
+  "note": "still has lines"
+ },
+ "110": {
+  "verdict": "h",
+  "note": "still has lines"
+ },
+ "49": {
+  "verdict": "w",
+  "note": "silhouettes"
+ },
+ "46": {
+  "verdict": "h",
+  "note": "clean B&W line art, not one line"
+ },
+ "43": {
+  "verdict": "w",
+  "note": "Art Deco frame"
+ },
+ "12": {
+  "verdict": "w",
+  "note": "Art Nouveau frame and flowers"
+ },
+ "14": {
+  "verdict": "w",
+  "note": "pop colour burst"
+ },
+ "42": {
+  "verdict": "h",
+  "note": "two-tone; no print grain"
+ },
+ "8": {
+  "verdict": "w",
+  "note": "transparent watercolour"
+ },
+ "48": {
+  "verdict": "w",
+  "note": "pen and wash"
+ },
+ "9": {
+  "verdict": "w",
+  "note": "painterly gouache"
+ },
+ "10": {
+  "verdict": "h",
+  "note": "sketchbook edge; digital colour"
+ },
+ "47": {
+  "verdict": "f",
+  "note": "painted, not crayon"
+ },
+ "61": {
+  "verdict": "h",
+  "note": "pastel colours, not pastel medium"
+ },
+ "62": {
+  "verdict": "f",
+  "note": "no oil pastel"
+ },
+ "60": {
+  "verdict": "w",
+  "note": "markers, drawn as a photo of the drawing"
+ },
+ "7": {
+  "verdict": "w",
+  "note": "sumi-e ink splashes, seal"
+ },
+ "51": {
+  "verdict": "h",
+  "note": "B&W line art; no ballpoint texture"
+ },
+ "53": {
+  "verdict": "h",
+  "note": "greyscale; no charcoal"
+ },
+ "88": {
+  "verdict": "h",
+  "note": "greyscale, more real; no pencil"
+ },
+ "58": {
+  "verdict": "h",
+  "note": "dots in the background only"
+ },
+ "55": {
+  "verdict": "h",
+  "note": "sepia hatching"
+ },
+ "56": {
+  "verdict": "w",
+  "note": "bold B&W print, framed"
+ },
+ "11": {
+  "verdict": "w",
+  "note": "flat ukiyo-e colour, red seal"
+ },
+ "78": {
+  "verdict": "w",
+  "note": "cyanotype blue"
+ },
+ "135": {
+  "verdict": "w",
+  "note": "B&W with one colour"
+ },
+ "196": {
+  "verdict": "h",
+  "note": "dark background and glow; no coloured pencil"
+ },
+ "20": {
+  "verdict": "f",
+  "note": "ordinary anime with a cast shadow"
+ },
+ "63": {
+  "verdict": "f",
+  "note": "pattern on clothes only"
+ },
+ "66": {
+  "verdict": "f",
+  "note": "no embroidery"
+ },
+ "64": {
+  "verdict": "w",
+  "note": "stained glass behind them"
+ },
+ "67": {
+  "verdict": "h",
+  "note": "mosaic in the background only"
+ },
+ "73": {
+  "verdict": "w",
+  "note": "8-bit pixels"
+ },
+ "71": {
+  "verdict": "w",
+  "note": "16-bit pixels"
+ },
+ "72": {
+  "verdict": "w",
+  "note": "1-bit dither"
+ },
+ "74": {
+  "verdict": "w",
+  "note": "isometric pixel diorama"
+ },
+ "75": {
+  "verdict": "w",
+  "note": "neon outline glow"
+ },
+ "19": {
+  "verdict": "w",
+  "note": "painterly oil"
+ },
+ "82": {
+  "verdict": "h",
+  "note": "painterly, not impressionist"
+ },
+ "84": {
+  "verdict": "h",
+  "note": "geometric background only"
+ },
+ "87": {
+  "verdict": "w",
+  "note": "dark chiaroscuro"
+ },
+ "89": {
+  "verdict": "h",
+  "note": "glowy poster; not realistic"
+ },
+ "91": {
+  "verdict": "f",
+  "note": "glossy figures, not clay"
+ },
+ "92": {
+  "verdict": "f",
+  "note": "plush toys beside them, not knitted"
+ },
+ "97": {
+  "verdict": "f",
+  "note": "no origami"
+ },
+ "98": {
+  "verdict": "f",
+  "note": "stays anime; no photo"
+ },
+ "99": {
+  "verdict": "f",
+  "note": "stays anime; no photo"
+ }
+}

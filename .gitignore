@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+# full-size originals go to releases, not git
+models/*/images/
+# Style Atlas's own paragraphs: kept locally, published only with the curator's consent
+sources/

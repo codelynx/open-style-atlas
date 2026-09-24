@@ -1,0 +1,702 @@
+[
+ {
+  "id": 21,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "60年代モノクロTVアニメ",
+  "english": "1960s B&W TV anime"
+ },
+ {
+  "id": 1,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "90年代テレビアニメのセル画",
+  "english": "1990s TV anime cel"
+ },
+ {
+  "id": 111,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "1970年代冒険アニメ・乾いた線",
+  "english": "1970s adventure anime, dry lines"
+ },
+ {
+  "id": 112,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "1980年代劇場版・硬質ハイライト",
+  "english": "1980s theatrical, hard highlights"
+ },
+ {
+  "id": 3,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "80年代SF・ファンタジーOVA",
+  "english": "1980s sci-fi fantasy OVA"
+ },
+ {
+  "id": 23,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "太線・熱血バトルアニメ",
+  "english": "hot-blooded battle anime"
+ },
+ {
+  "id": 115,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "2000年代デジタルアニメ初期",
+  "english": "early 2000s digital anime"
+ },
+ {
+  "id": 15,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "2000年代美少女ゲーム塗り",
+  "english": "2000s bishoujo game paint"
+ },
+ {
+  "id": 24,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "都会的なスタイリッシュアニメ",
+  "english": "stylish urban anime"
+ },
+ {
+  "id": 101,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "2020年代ファンタジーアニメ",
+  "english": "2020s fantasy anime"
+ },
+ {
+  "id": 104,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "少女向けファンタジーアニメ",
+  "english": "shoujo fantasy anime"
+ },
+ {
+  "id": 105,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "青年向けダークアニメ",
+  "english": "dark seinen anime"
+ },
+ {
+  "id": 109,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "深夜アニメ・色影演出",
+  "english": "late-night anime, colored shadows"
+ },
+ {
+  "id": 130,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "色トレス・明るいセル画",
+  "english": "color trace, bright cel"
+ },
+ {
+  "id": 29,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "アニメ原画・色トレス線",
+  "english": "key animation drawing, color trace"
+ },
+ {
+  "id": 118,
+  "group": 1,
+  "groupName": "セル画とアニメの年代感",
+  "title": "鉛筆ラフ＋仕上げ彩色",
+  "english": "pencil rough + finish color"
+ },
+ {
+  "id": 2,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "70年代の華麗な少女漫画",
+  "english": "1970s gorgeous shojo manga"
+ },
+ {
+  "id": 6,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "白黒少年漫画・スクリーントーン",
+  "english": "B&W shonen manga, screentone"
+ },
+ {
+  "id": 172,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "少女漫画・白抜きとスクリーントーン",
+  "english": "shojo manga, white-out and screentone"
+ },
+ {
+  "id": 122,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "少女漫画・カラーインク",
+  "english": "shojo manga, color ink"
+ },
+ {
+  "id": 17,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "劇画・ハードボイルド",
+  "english": "gekiga hardboiled"
+ },
+ {
+  "id": 121,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "少年漫画・カラー扉絵",
+  "english": "shonen manga color frontispiece"
+ },
+ {
+  "id": 18,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "縦読みウェブトゥーン",
+  "english": "vertical webtoon"
+ },
+ {
+  "id": 123,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "青年漫画・リアルな骨格",
+  "english": "seinen manga, realistic build"
+ },
+ {
+  "id": 171,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "黒白・劇画のベタ影",
+  "english": "B&W gekiga, solid shadows"
+ },
+ {
+  "id": 5,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "リーニュ・クレール",
+  "english": "ligne claire"
+ },
+ {
+  "id": 31,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "フランコ・ベルギー風カリカチュア",
+  "english": "Franco-Belgian caricature"
+ },
+ {
+  "id": 32,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "クラシック・アメコミのヒーロー",
+  "english": "classic American comic hero"
+ },
+ {
+  "id": 35,
+  "group": 2,
+  "groupName": "漫画とコミックの描線",
+  "title": "二色刷りグラフィックノベル",
+  "english": "two-color graphic novel"
+ },
+ {
+  "id": 16,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "2.5頭身・デフォルメ",
+  "english": "2.5-head chibi"
+ },
+ {
+  "id": 22,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "70年代ギャグ漫画の丸い造形",
+  "english": "1970s gag manga, round forms"
+ },
+ {
+  "id": 36,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "ラバーホース・クラシックカートゥーン",
+  "english": "rubber-hose classic cartoon"
+ },
+ {
+  "id": 37,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "ミッドセンチュリーUPA風",
+  "english": "mid-century UPA"
+ },
+ {
+  "id": 38,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "90年代TVカートゥーン",
+  "english": "1990s TV cartoon"
+ },
+ {
+  "id": 39,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "丸いベクター・キャラクター",
+  "english": "round vector character"
+ },
+ {
+  "id": 149,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "パズルゲーム・シンプルキャラ",
+  "english": "puzzle game simple character"
+ },
+ {
+  "id": 170,
+  "group": 3,
+  "groupName": "丸み・誇張・デフォルメ",
+  "title": "パステル・四頭身デフォルメ",
+  "english": "pastel 4-head deformed"
+ },
+ {
+  "id": 113,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "1990年代ゲーム販促アニメ絵",
+  "english": "1990s game promo anime art"
+ },
+ {
+  "id": 150,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "2000年代恋愛ゲーム・分節グラデーション",
+  "english": "2000s romance game, banded gradients"
+ },
+ {
+  "id": 144,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "乙女ゲーム・ロマンティック彩色",
+  "english": "otome game romantic paint"
+ },
+ {
+  "id": 142,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "戦術RPG・キャラ立ち絵",
+  "english": "tactics RPG standing art"
+ },
+ {
+  "id": 148,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "格闘ゲーム・硬派な宣伝画",
+  "english": "fighting game hard promo"
+ },
+ {
+  "id": 183,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "戦術ゲーム・俯瞰ちびキャラ",
+  "english": "tactics game top-down chibi"
+ },
+ {
+  "id": 151,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "1990年代前半・超低ポリゴン",
+  "english": "early-1990s ultra low poly"
+ },
+ {
+  "id": 153,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "2000年代据え置き機・ポリゴン",
+  "english": "2000s console polygon"
+ },
+ {
+  "id": 188,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "ボクセル・箱型アバター",
+  "english": "voxel boxy avatar"
+ },
+ {
+  "id": 162,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "二段階トゥーンシェーダー",
+  "english": "two-step toon shader"
+ },
+ {
+  "id": 94,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "セルルック3DCG",
+  "english": "cel-look 3DCG"
+ },
+ {
+  "id": 166,
+  "group": 4,
+  "groupName": "ゲームイラストと3DCG",
+  "title": "フィギュア調ゲームCG",
+  "english": "figure-like game CG"
+ },
+ {
+  "id": 116,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "ミルクティー色・細線の薄塗り",
+  "english": "milk-tea color, thin lines"
+ },
+ {
+  "id": 4,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "ミニマル・フラットカラー",
+  "english": "minimal flat color"
+ },
+ {
+  "id": 168,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "極細線・無影の透明色",
+  "english": "ultra-thin lines, no shadow, clear color"
+ },
+ {
+  "id": 132,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "細線・高彩度フラット",
+  "english": "thin lines, high-saturation flat"
+ },
+ {
+  "id": 138,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "線なし・エッジで描くアニメ",
+  "english": "no lines, edge-drawn anime"
+ },
+ {
+  "id": 110,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "配信アニメ・線なしセル塗り",
+  "english": "streaming anime, lineless cel"
+ },
+ {
+  "id": 49,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "黒いシルエットの挿絵",
+  "english": "black silhouette illustration"
+ },
+ {
+  "id": 46,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "一本線・ミニマル線画",
+  "english": "one-line minimal line art"
+ },
+ {
+  "id": 43,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "アール・デコ・ポスター",
+  "english": "Art Deco poster"
+ },
+ {
+  "id": 12,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "アール・ヌーヴォー装飾画",
+  "english": "Art Nouveau ornament"
+ },
+ {
+  "id": 14,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "ポップアート・シルクスクリーン",
+  "english": "pop art silkscreen"
+ },
+ {
+  "id": 42,
+  "group": 5,
+  "groupName": "フラットカラーとポスター",
+  "title": "リソグラフ・二色の重なり",
+  "english": "risograph two-color overlap"
+ },
+ {
+  "id": 8,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "透明水彩",
+  "english": "transparent watercolor"
+ },
+ {
+  "id": 48,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "ペンと淡彩の児童書挿絵",
+  "english": "pen and wash children's book"
+ },
+ {
+  "id": 9,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "不透明ガッシュ",
+  "english": "opaque gouache"
+ },
+ {
+  "id": 10,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "色鉛筆・スケッチブック",
+  "english": "colored pencil sketchbook"
+ },
+ {
+  "id": 47,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "クレヨンのナイーブイラスト",
+  "english": "naive crayon illustration"
+ },
+ {
+  "id": 61,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "ソフトパステル",
+  "english": "soft pastel"
+ },
+ {
+  "id": 62,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "オイルパステル・大胆な線",
+  "english": "oil pastel, bold lines"
+ },
+ {
+  "id": 60,
+  "group": 6,
+  "groupName": "水彩・ガッシュ・手描きの色",
+  "title": "アルコールマーカー画",
+  "english": "alcohol marker drawing"
+ },
+ {
+  "id": 7,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "墨絵・筆描きアニメ",
+  "english": "sumi-e brush anime"
+ },
+ {
+  "id": 51,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "ボールペン画",
+  "english": "ballpoint pen drawing"
+ },
+ {
+  "id": 53,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "木炭・白チョーク",
+  "english": "charcoal and white chalk"
+ },
+ {
+  "id": 88,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "写実鉛筆・スタジオポートレート",
+  "english": "realistic pencil portrait"
+ },
+ {
+  "id": 58,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "点描ペン画",
+  "english": "stippling pen drawing"
+ },
+ {
+  "id": 55,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "銅版画・エングレーヴィング",
+  "english": "copperplate engraving"
+ },
+ {
+  "id": 56,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "リノカット・太い彫り跡",
+  "english": "linocut, bold cuts"
+ },
+ {
+  "id": 11,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "浮世絵・木版画",
+  "english": "ukiyo-e woodblock"
+ },
+ {
+  "id": 78,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "シアノタイプ・青い印画",
+  "english": "cyanotype blue print"
+ },
+ {
+  "id": 135,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "線画主役・部分彩色",
+  "english": "line art first, partial color"
+ },
+ {
+  "id": 196,
+  "group": 7,
+  "groupName": "モノクロの線描と版画",
+  "title": "黒紙・色鉛筆の発光色",
+  "english": "colored pencil glow on black paper"
+ },
+ {
+  "id": 20,
+  "group": 8,
+  "groupName": "紙・布・装飾素材のイラスト",
+  "title": "切り絵・紙のレイヤー",
+  "english": "layered cut paper"
+ },
+ {
+  "id": 63,
+  "group": 8,
+  "groupName": "紙・布・装飾素材のイラスト",
+  "title": "バティック・ろうけつ染め",
+  "english": "batik"
+ },
+ {
+  "id": 66,
+  "group": 8,
+  "groupName": "紙・布・装飾素材のイラスト",
+  "title": "刺繍イラスト",
+  "english": "embroidery illustration"
+ },
+ {
+  "id": 64,
+  "group": 8,
+  "groupName": "紙・布・装飾素材のイラスト",
+  "title": "ステンドグラスの平面挿絵",
+  "english": "flat stained glass"
+ },
+ {
+  "id": 67,
+  "group": 8,
+  "groupName": "紙・布・装飾素材のイラスト",
+  "title": "モザイク・タイル画",
+  "english": "mosaic tiles"
+ },
+ {
+  "id": 73,
+  "group": 9,
+  "groupName": "ピクセルとデジタルの光",
+  "title": "8bit・レトロゲームイラスト",
+  "english": "8-bit retro game art"
+ },
+ {
+  "id": 71,
+  "group": 9,
+  "groupName": "ピクセルとデジタルの光",
+  "title": "16bit・ピクセルアート",
+  "english": "16-bit pixel art"
+ },
+ {
+  "id": 72,
+  "group": 9,
+  "groupName": "ピクセルとデジタルの光",
+  "title": "1bit・白黒ディザ",
+  "english": "1-bit black-and-white dither"
+ },
+ {
+  "id": 74,
+  "group": 9,
+  "groupName": "ピクセルとデジタルの光",
+  "title": "アイソメトリック・タクティクス絵",
+  "english": "isometric tactics"
+ },
+ {
+  "id": 75,
+  "group": 9,
+  "groupName": "ピクセルとデジタルの光",
+  "title": "ネオンライン・輪郭イラスト",
+  "english": "neon line illustration"
+ },
+ {
+  "id": 19,
+  "group": 10,
+  "groupName": "絵画的な色彩と光",
+  "title": "油彩・絵画的アニメ",
+  "english": "oil-painted painterly anime"
+ },
+ {
+  "id": 82,
+  "group": 10,
+  "groupName": "絵画的な色彩と光",
+  "title": "印象派・光の色面",
+  "english": "impressionism"
+ },
+ {
+  "id": 84,
+  "group": 10,
+  "groupName": "絵画的な色彩と光",
+  "title": "キュビスム・面の再構成",
+  "english": "cubism"
+ },
+ {
+  "id": 87,
+  "group": 10,
+  "groupName": "絵画的な色彩と光",
+  "title": "バロック・明暗法",
+  "english": "baroque chiaroscuro"
+ },
+ {
+  "id": 89,
+  "group": 10,
+  "groupName": "絵画的な色彩と光",
+  "title": "映画ポスター風リアルイラスト",
+  "english": "movie-poster realistic illustration"
+ },
+ {
+  "id": 91,
+  "group": 11,
+  "groupName": "立体クラフトと人形",
+  "title": "クレイ・ストップモーション",
+  "english": "clay stop-motion"
+ },
+ {
+  "id": 92,
+  "group": 11,
+  "groupName": "立体クラフトと人形",
+  "title": "毛糸の編みぐるみ",
+  "english": "knitted amigurumi"
+ },
+ {
+  "id": 97,
+  "group": 11,
+  "groupName": "立体クラフトと人形",
+  "title": "折り紙・立体ペーパークラフト",
+  "english": "origami papercraft"
+ },
+ {
+  "id": 98,
+  "group": 12,
+  "groupName": "実写映画・スナップ・スタジオ写真",
+  "title": "実写映画・ファンタジーの二人",
+  "english": "live-action fantasy film"
+ },
+ {
+  "id": 99,
+  "group": 12,
+  "groupName": "実写映画・スナップ・スタジオ写真",
+  "title": "35mmスナップ・コスプレ写真",
+  "english": "35mm cosplay snapshot"
+ }
+]

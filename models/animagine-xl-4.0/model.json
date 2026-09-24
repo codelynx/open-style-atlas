@@ -1,0 +1,17 @@
+{
+ "name": "Animagine XL 4.0",
+ "language": "tags",
+ "generator": "ComfyUI 0.34.0",
+ "checkpoint": "animagine-xl-4.0-opt.safetensors",
+ "seed": 20260923,
+ "width": 1024,
+ "height": 1024,
+ "steps": 28,
+ "cfg": 5,
+ "sampler": "euler_ancestral",
+ "scheduler": "normal",
+ "subject": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer",
+ "closing": "safe, masterpiece, high score, great score, absurdres",
+ "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+ "prompt": "{subject}, {recipe}, {closing}"
+}

@@ -1,0 +1,602 @@
+{
+ "6": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, (monochrome:1.4), (greyscale:1.4), screentones, manga, speed lines, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "16": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, chibi, big head, flat color, thick outlines, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "21": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1960s (style), retro artstyle, monochrome, greyscale, thick outlines, simple shading, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "1": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1990s (style), retro artstyle, anime screencap, cel shading, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "111": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1970s (style), retro artstyle, anime screencap, rough lines, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "112": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1980s (style), retro artstyle, cel shading, shiny hair, dramatic lighting, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "3": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1980s (style), retro artstyle, oldschool, cel shading, film grain, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "23": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, thick outlines, spiked hair, muscular male, cel shading, dynamic pose, fiery aura, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "115": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 2000s (style), anime screencap, digital coloring, cel shading, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "15": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 2000s (style), gradient shading, shiny skin, glossy, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "24": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, slender, long legs, angular face, limited palette, stylish, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "101": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, year 2022, anime screencap, anime coloring, soft lighting, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "104": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, shoujo, sparkle, pastel colors, big eyes, soft colors, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "105": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, dark theme, muted colors, realistic proportions, dramatic shadow, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "109": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, purple theme, colored shadow, rim lighting, night, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "130": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, colored lineart, bright colors, cel shading, anime coloring, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "29": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, production art, key frame, colored lineart, sketch, pencil, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "118": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, sketch, rough lines, partially colored, traditional media, pencil, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "2": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1970s (style), shoujo, retro artstyle, sparkling eyes, flowers, elongated body, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "172": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, (monochrome:1.4), (greyscale:1.4), screentones, shoujo, sparkle, flower background, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "122": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, shoujo, ink (medium), watercolor (medium), traditional media, delicate lines, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "17": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, gekiga, (monochrome:1.4), (greyscale:1.4), realistic, heavy shadow, cross-hatching, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "121": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, manga cover, bold lines, cel shading, vibrant colors, dynamic pose, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "18": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, webtoon, korean, clean lineart, soft shading, digital coloring, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "123": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, realistic, muscular, fine lines, muted colors, seinen, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "171": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, (monochrome:1.4), (greyscale:1.4), high contrast, heavy shadow, ink, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "5": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, ligne claire, flat color, clean lineart, no shading, western comics (style), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "31": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, western comics (style), caricature, flat color, big nose, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "32": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, american comics, western comics (style), halftone, bold lines, primary colors, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "35": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, limited palette, two-tone, graphic novel, flat color, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "22": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1970s (style), retro artstyle, comedy, round face, simple coloring, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "36": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, rubber hose, 1930s (style), black and white, cartoon, pie eyes, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "37": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1950s (style), flat color, limited palette, geometric, cartoon, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "38": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1990s (style), cartoon, western cartoon, thick outlines, flat color, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "39": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, vector art, flat color, simple, round shapes, no shading, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "149": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, chibi, simple, flat color, video game, cute, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "170": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, chibi, pastel colors, soft colors, cute, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "113": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 1990s (style), official art, promotional art, retro artstyle, video game, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "150": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 2000s (style), visual novel, gradient, shiny, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 98
+ },
+ "144": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, otome game, sparkle, soft lighting, romantic, bishounen, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "142": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, official art, standing, full body, fantasy, rpg, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "148": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, official art, fighting game, dynamic pose, dramatic lighting, muscular, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "183": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, chibi, from above, isometric, video game, sprite, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "151": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, low poly, 3d, polygon, retro, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "153": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 3d, cgi, ps2 (style), low poly, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "188": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, voxel art, 3d, blocky, minecraft (style), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "162": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, toon shading, 3d, cel shading, flat color, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "94": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, 3d, cel shading, toon shading, anime coloring, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 96
+ },
+ "166": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, figure, 3d, glossy, plastic, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "116": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pastel colors, soft colors, thin lines, beige, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "4": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, flat color, minimalism, no shading, simple background, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "168": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, thin lines, no shading, pastel colors, clean lineart, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "132": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, flat color, vibrant colors, thin lines, high saturation, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "138": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, no lineart, flat color, cel shading, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "110": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, no lineart, cel shading, anime coloring, bright, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "49": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, silhouette, black, (monochrome:1.3), negative space, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "46": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, lineart, (monochrome:1.3), minimalism, single line, white background, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "43": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, art deco, poster, geometric, gold, symmetry, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "12": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, art nouveau, ornate, decorative border, flowers, mucha (style), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "14": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pop art, halftone, bold outlines, primary colors, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "42": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, risograph, limited palette, two-tone, grain, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "8": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, watercolor (medium), traditional media, soft colors, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "48": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, ink (medium), watercolor (medium), picture book, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "9": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, gouache (medium), painterly, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "10": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, colored pencil (medium), sketch, traditional media, paper texture, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "47": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, crayon (medium), childlike, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "61": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pastel (medium), soft colors, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "62": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, oil pastel (medium), bold lines, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "60": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, marker (medium), copic, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "7": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, sumi-e, ink wash painting, (monochrome:1.4), brush strokes, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "51": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, ballpoint pen (medium), (monochrome:1.3), sketch, hatching (texture), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "53": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, charcoal (medium), grey paper, chalk, (monochrome:1.3), traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "88": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pencil, graphite (medium), realistic, (greyscale:1.4), traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "58": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, stippling, pointillism, ink, (monochrome:1.4), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "55": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, engraving, cross-hatching, (monochrome:1.4), etching, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "56": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, linocut, woodcut, printmaking, (monochrome:1.4), bold lines, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "11": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, ukiyo-e, woodblock print, traditional media, flat color, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "78": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, cyanotype, blue theme, (monochrome:1.4), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "135": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, lineart, partially colored, spot color, white background, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "196": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, black background, colored pencil (medium), glowing, traditional media, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "20": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, paper cutout, papercraft, layered, shadow, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "63": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, batik, fabric, pattern, dyed, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "66": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, embroidery, fabric, thread, stitches, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "64": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, stained glass, colorful, outline, mosaic, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "67": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, mosaic, tiles, pattern, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "73": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pixel art, 8-bit, limited palette, retro, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "71": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pixel art, 16-bit, sprite, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "72": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, pixel art, 1-bit, dithering, (monochrome:1.4), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 94
+ },
+ "74": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, isometric, pixel art, from above, diorama, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "75": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, neon lights, glowing, outline, dark background, lineart, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "19": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, oil painting (medium), painterly, impasto, brush strokes, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "82": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, impressionism, painterly, brush strokes, light, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "84": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, cubism, abstract, geometric, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "87": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, chiaroscuro, baroque, oil painting (medium), dramatic lighting, dark background, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "89": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, realistic, movie poster, dramatic lighting, painting (medium), safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "91": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, clay, claymation, figure, 3d, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "92": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, knitted, amigurumi, yarn, plush, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "97": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, origami, papercraft, paper, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 90
+ },
+ "98": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, photorealistic, realistic, cinematic lighting, cosplay, film still, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ },
+ "99": {
+  "prompt": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer, photo (medium), cosplay, film grain, 35mm, safe, masterpiece, high score, great score, absurdres",
+  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
+  "seed": 20260923,
+  "seconds": 92
+ }
+}

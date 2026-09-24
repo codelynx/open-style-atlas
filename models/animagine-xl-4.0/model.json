@@ -13,5 +13,7 @@
  "subject": "1girl, 1boy, cat girl, cat ears, short hair, bob cut, blonde hair, tunic, short cape, smile, black hair, high collar, holding sword, standing, side-by-side, cowboy shot, looking at viewer",
  "closing": "safe, masterpiece, high score, great score, absurdres",
  "negative": "nsfw, explicit, questionable, suggestive, sexual, nude, lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, low score, bad score, average score, signature, watermark, username, blurry",
- "prompt": "{subject}, {recipe}, {closing}"
+ "prompt": "{subject}, {recipe}, {closing}",
+ "hardware": "Apple M4 Pro, 64 GB, macOS 27",
+ "clipSkip": 1
 }

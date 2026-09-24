@@ -21,16 +21,20 @@ def post(path, body):
 
 
 def draw(model, prompt):
+	# clip skip 2, as Illustrious asks, reads the text from the second-to-last CLIP layer
+	clip = ['8', 0] if model.get('clipSkip', 1) > 1 else ['1', 1]
 	graph = {
 		'1': {'class_type': 'CheckpointLoaderSimple', 'inputs': {'ckpt_name': model['checkpoint']}},
-		'2': {'class_type': 'CLIPTextEncode', 'inputs': {'text': prompt, 'clip': ['1', 1]}},
-		'3': {'class_type': 'CLIPTextEncode', 'inputs': {'text': model['negative'], 'clip': ['1', 1]}},
+		'2': {'class_type': 'CLIPTextEncode', 'inputs': {'text': prompt, 'clip': clip}},
+		'3': {'class_type': 'CLIPTextEncode', 'inputs': {'text': model['negative'], 'clip': clip}},
 		'4': {'class_type': 'EmptyLatentImage', 'inputs': {'width': model['width'], 'height': model['height'], 'batch_size': 1}},
 		'5': {'class_type': 'KSampler', 'inputs': {'model': ['1', 0], 'positive': ['2', 0], 'negative': ['3', 0], 'latent_image': ['4', 0],
 			'seed': model['seed'], 'steps': model['steps'], 'cfg': model['cfg'], 'sampler_name': model['sampler'], 'scheduler': model['scheduler'], 'denoise': 1}},
 		'6': {'class_type': 'VAEDecode', 'inputs': {'samples': ['5', 0], 'vae': ['1', 2]}},
 		'7': {'class_type': 'PreviewImage', 'inputs': {'images': ['6', 0]}},
 	}
+	if model.get('clipSkip', 1) > 1:
+		graph['8'] = {'class_type': 'CLIPSetLastLayer', 'inputs': {'clip': ['1', 1], 'stop_at_clip_layer': -model['clipSkip']}}
 	prompt_id = post('/prompt', {'prompt': graph})['prompt_id']
 	while True:
 		time.sleep(2)
@@ -55,7 +59,7 @@ def main():
 	wanted = {int(a) for a in sys.argv[2:]}
 	model = json.load(open(f'{folder}/model.json'))
 	recipes = json.load(open(f'{folder}/recipes.json'))
-	styles = json.load(open(os.path.join(os.path.dirname(__file__), '..', 'styles.json')))
+	styles = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'styles.json')))
 	results_path = f'{folder}/results.json'
 	results = json.load(open(results_path)) if os.path.exists(results_path) else {}
 	os.makedirs(f'{folder}/images', exist_ok=True)

@@ -24,7 +24,7 @@ for name in sorted(os.listdir(os.path.join(ROOT, 'models'))):
 	if not os.path.exists(os.path.join(ROOT, folder, 'model.json')):
 		continue
 	model = load(f'{folder}/model.json', {})
-	models.append({'key': name, 'name': model['name'], 'language': model.get('language', ''),
+	models.append({'key': name, 'name': model['name'], 'language': model.get('language', ''), 'config': model,
 		'recipes': load(f'{folder}/recipes.json', {}), 'results': load(f'{folder}/results.json', {}),
 		'evaluation': load(f'{folder}/evaluation.json', {})})
 	thumbs = os.path.join(ROOT, folder, 'thumbs')
@@ -60,6 +60,27 @@ for (number, name), items in sorted(groups.items()):
 		f'<span class="caption"><span class="title">{html.escape(e["title"])}</span><span class="en">{html.escape(e["english"])}</span><span class="num">#{e["id"]:03d}</span></span></button>'
 		for e in items)
 	sections.append(f'<section><h2><span class="n">{number:02d}</span> {html.escape(name)} <span class="count">{len(items)}</span></h2><div class="grid">{cards}</div></section>')
+def footer():
+	"""How each model was drawn, beyond its name: everything needed to draw a picture again."""
+	rows = [('Checkpoint', 'checkpoint'), ('Generator', 'generator'), ('Hardware', 'hardware'), ('Size', None), ('Steps', 'steps'), ('CFG', 'cfg'),
+		('Sampler', None), ('Clip skip', 'clipSkip'), ('Seed', 'seed'), ('Prompt', 'prompt'), ('Subject', 'subject'), ('Closing', 'closing'),
+		('Negative', 'negative'), ('Recipes', 'recipesFrom'), ('Trials', 'trials')]
+	parts = ["<h2>How each model was drawn</h2><p>One subject and one seed for every style of a model; the prompt is the template below with the style's recipe in it. Anything here can be improved by a pull request.</p>"]
+	for m in models:
+		c = m['config']
+		values = {'Size': f"{c.get('width')}×{c.get('height')}", 'Sampler': f"{c.get('sampler')} / {c.get('scheduler')}"}
+		items = []
+		for label, key in rows:
+			value = values.get(label) if key is None else c.get(key)
+			if value in (None, '', []):
+				continue
+			if isinstance(value, list):
+				value = ' '.join(value)
+			items.append(f'<dt>{label}</dt><dd>{html.escape(str(value))}</dd>')
+		parts.append(f'<h3>{html.escape(m["name"])}</h3><dl>{"".join(items)}</dl>')
+	return ''.join(parts)
+
+
 tabs = ''.join(f'<button data-model="{m["key"]}">{html.escape(m["name"])}</button>' for m in models)
 names = json.dumps({m['key']: m['name'] for m in models})
 
@@ -83,6 +104,11 @@ nav {{ display: flex; gap: 8px; margin-top: 14px; flex-wrap: wrap; }}
 nav button {{ font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--text); border-radius: 99px; padding: 4px 12px; cursor: pointer; }}
 nav button.on {{ border-color: var(--accent); color: var(--accent); }}
 main {{ padding-bottom: 64px; }}
+footer {{ max-width: 1400px; margin: auto; padding: 24px 16px 64px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }}
+footer h2 {{ color: var(--text); }}
+footer dl {{ display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 8px 0 20px; }}
+footer dt {{ color: var(--text); }}
+footer dd {{ margin: 0; font-family: ui-monospace, Menlo, monospace; font-size: 12px; overflow-wrap: anywhere; }}
 h2 {{ font-size: 18px; margin: 36px 0 12px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }}
 h2 .n {{ color: var(--accent); font-variant-numeric: tabular-nums; }}
 h2 .count {{ color: var(--muted); font-weight: 400; font-size: 13px; }}
@@ -110,11 +136,12 @@ code {{ display: block; white-space: pre-wrap; background: var(--bg); border: 1p
 <header>
 <h1>Open Style Atlas</h1>
 <p>One subject, 猫耳の冒険者と男性剣士, in {len(styles)} styles, drawn by open image models, each prompted in its own language. The styles follow <a href="{STYLE_ATLAS}">Style Atlas</a> by SSSS⚡CRYPTOMAN, which draws them with ChatGPT. A style that fails is part of the result. Better prompts are welcome as pull requests.</p>
-<p><strong>Unofficial.</strong> Built on Style Atlas's styles, names and grouping, with credit and links; not made or endorsed by its curator, who has been asked and whose wishes will be followed. Source: <a href="https://github.com/codelynx/open-style-atlas">github.com/codelynx/open-style-atlas</a>.</p>
+<p>Built with Style Atlas's blessing, as an independent project. Source and pull requests: <a href="https://github.com/codelynx/open-style-atlas">github.com/codelynx/open-style-atlas</a>.</p>
 <nav id="models">{tabs}</nav>
 <nav id="filters"><button data-filter="" class="on">All</button>{"".join(f'<button data-filter="{k}">{v}</button>' for k, v in VERDICTS.items())}</nav>
 </header>
 <main>{"".join(sections)}</main>
+<footer>{footer()}</footer>
 <dialog id="detail"><button class="close" onclick="detail.close()">Close</button><h3 id="title"></h3><div id="compare" class="compare"></div></dialog>
 <script>
 const names = {names};
